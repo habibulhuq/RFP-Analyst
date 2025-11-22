@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local SQLite DB
+*.db
+
+# Environment / secrets
+.env
+
+# Local data outputs (raw, cleaned, EDA, reports)
+backend/data/raw/
+backend/data/clean/
+backend/data/eda/
+backend/data/reports/
+
+# Jupyter and editor junk
+.ipynb_checkpoints/
+.vscode/

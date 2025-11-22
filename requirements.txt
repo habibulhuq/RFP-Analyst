@@ -1,1 +1,12 @@
-List the basic Python libraries needed (e.g., google-genai, fastapi, pydantic).
+fastapi
+uvicorn[standard]
+pandas
+numpy
+pyarrow
+matplotlib
+sqlalchemy
+sqlalchemy-utils
+python-dotenv
+pydantic
+python-multipart
+requests
